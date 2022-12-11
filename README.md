@@ -1,6 +1,6 @@
-### Hi there, I'm Dillon 👋
+## Hi there, I'm Dillon 👋
 
-#### I'm a Software Engineer with expertise in
+### I'm a Software Engineer with expertise in
 
 - TypeScript
 - JavaScript
@@ -8,24 +8,14 @@
 - Node
 - and the broader JS ecosystem
 
-#### Some of my notable work includes
+### Some of my notable and favorite work includes
 
-- Former co-maintainer and core contributor of Victory Charts
-- Google Web Stories for Wordpress
+- Former co-maintainer and core contributor of [Victory Charts](https://github.com/dmmulroy#:~:text=FormidableLabs/victory)
+- Contributor to [Google Web Stories for Wordpress](https://github.com/googleforcreators/web-stories-wp)
 - [A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification](https://formidable.com/blog/2021/cypress-iframes/)
-- Partyfy - A Node js library for generating rainbow gif emojis
+- [Event Driven Redux](https://www.youtube.com/watch?v=Pny5rM5NneA), my talk at Nation JS Conf in 2019
+- [Partyfy](https://github.com/dmmulroy/partyfy) - A Node js library for generating rainbow gif emojis
 
-<!--
-**dmmulroy/dmmulroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=dmmulroy&show_icons=true&theme=dark)](https://github.com/dmmulroy/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmulroy&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)](https://github.com/anuraghazra/github-readme-stats)
