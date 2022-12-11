@@ -8,6 +8,13 @@
 - Node
 - and the broader JS ecosystem
 
+#### Some of my notable work includes
+
+- Former co-maintainer and core contributor of Victory Charts
+- Google Web Stories for Wordpress
+- (A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification)[https://formidable.com/blog/2021/cypress-iframes/]
+- Partyfy - A Node js library for generating rainbow gif emojis
+
 <!--
 **dmmulroy/dmmulroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
