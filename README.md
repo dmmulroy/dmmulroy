@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Dillon 👋
+
+## I'm a Software Engineer with expertise in TypeScript, JavaScript, React, Node, and the broader JS ecosystem
 
 <!--
 **dmmulroy/dmmulroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
