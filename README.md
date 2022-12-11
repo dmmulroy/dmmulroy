@@ -10,7 +10,7 @@
 
 ### Some of my notable and favorite work includes
 
-- Former co-maintainer and core contributor of [Victory Charts](https://github.com/dmmulroy#:~:text=FormidableLabs/victory)
+- Former co-maintainer and core contributor of [Victory Charts](https://github.com/FormidableLabs/victory)
 - Contributor to [Google Web Stories for Wordpress](https://github.com/googleforcreators/web-stories-wp)
 - [A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification](https://formidable.com/blog/2021/cypress-iframes/)
 - [Event Driven Redux](https://www.youtube.com/watch?v=Pny5rM5NneA), my talk at Nation JS Conf in 2019
