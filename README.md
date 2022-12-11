@@ -12,7 +12,7 @@
 
 - Former co-maintainer and core contributor of Victory Charts
 - Google Web Stories for Wordpress
-- (A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification)[https://formidable.com/blog/2021/cypress-iframes/]
+- [A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification](https://formidable.com/blog/2021/cypress-iframes/)
 - Partyfy - A Node js library for generating rainbow gif emojis
 
 <!--
