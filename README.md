@@ -10,6 +10,7 @@
 
 ### Some of my notable and favorite work includes
 
+- [tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - Former co-maintainer and core contributor of [Victory Charts](https://github.com/FormidableLabs/victory)
 - Contributor to [Google Web Stories for Wordpress](https://github.com/googleforcreators/web-stories-wp)
 - [A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification](https://formidable.com/blog/2021/cypress-iframes/)
