@@ -8,6 +8,8 @@
 - Node
 - and the broader JS ecosystem
 
+I'm currently interested in exploring and learning OCaml, Melange, and functional programming more broadly.
+
 ### Some of my notable and favorite work includes
 
 - [tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler
@@ -17,6 +19,6 @@
 - [Event Driven Redux](https://www.youtube.com/watch?v=Pny5rM5NneA), my talk at Nation JS Conf in 2019
 - [Partyfy](https://github.com/dmmulroy/partyfy) - A Node js library for generating rainbow gif emojis
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=dmmulroy&show_icons=true&theme=dark)](https://github.com/dmmulroy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=dmmulroy&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=true&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmulroy&show_icons=true&theme=dark&hide=tcl,html,css,powershell,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmulroy&show_icons=true&theme=material-palenight&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
