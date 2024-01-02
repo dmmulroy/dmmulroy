@@ -8,16 +8,17 @@
 - Node
 - and the broader JS ecosystem
 
-I'm currently interested in exploring and learning OCaml, Melange, and functional programming more broadly.
+My current passion and interests revolve around OCaml, Melange, and the wider realm of functional programming. I dedicate a significant portion of my time to promoting and educating others about OCaml and functional programming. Additionally, I'm actively engaged in developing for this ecosystem, which you can watch live on my Twitch stream at [twitch.tv/dmmulroy](https://twitch.tv/dmmulroy).
 
 ### Some of my notable and favorite work includes
 
 - [tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler
+- [create-melange-app](https://github.com/dmmulroy/create-melange-app.nvim) A scaffolding tool to generate Melange (A OCaml/ReasonML -> JS compiler) apps and help onboard JS/TS devs quickly.
+- [Melange: The next frontier in type-safe web development](https://www.youtube.com/watch?v=Pny5rM5NneA), my talk at RVA JS Conf in 2023
 - Former co-maintainer and core contributor of [Victory Charts](https://github.com/FormidableLabs/victory)
 - Contributor to [Google Web Stories for Wordpress](https://github.com/googleforcreators/web-stories-wp)
 - [A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification](https://formidable.com/blog/2021/cypress-iframes/)
 - [Event Driven Redux](https://www.youtube.com/watch?v=Pny5rM5NneA), my talk at Nation JS Conf in 2019
-- [Partyfy](https://github.com/dmmulroy/partyfy) - A Node js library for generating rainbow gif emojis
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=dmmulroy&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
 
