@@ -14,7 +14,7 @@ My current passion and interests revolve around OCaml, ReasonML, Melange, and th
 
 - [tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler
 - [create-melange-app](https://github.com/dmmulroy/create-melange-app) - A tool designed to scaffold Melange (A compiler to compile OCaml/ReasonML to JavaScript) applications. Its primary aim is to facilitate a swift and efficient onboarding process for JavaScript and TypeScript developers to the OCaml/ReasonML ecosystem.
-- [Melange: The next frontier in type-safe web development](https://www.youtube.com/watch?v=Pny5rM5NneA), my talk at RVA JS Conf in 2023
+- [Melange: The next frontier in type-safe web development](https://www.youtube.com/watch?v=zG7JejHlQoM), my talk at RVA JS Conf in 2023
 - Former co-maintainer and core contributor of [Victory Charts](https://github.com/FormidableLabs/victory)
 - Contributor to [Google Web Stories for Wordpress](https://github.com/googleforcreators/web-stories-wp)
 - [A Deep Dive into Debugging Cypress, iframes, & Runtime Code Modification](https://formidable.com/blog/2021/cypress-iframes/)
