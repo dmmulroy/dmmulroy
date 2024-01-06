@@ -8,7 +8,7 @@
 - Node
 - and the broader JS ecosystem
 
-My current passion and interests revolve around OCaml, ReasonML, Melange, and the wider realm of functional programming. I dedicate a significant portion of my time to promoting and educating others about OCaml and functional programming. Additionally, I'm actively engaged in developing for this ecosystem, which you can watch live on my Twitch stream at [twitch.tv/dmmulroy](https://twitch.tv/dmmulroy).
+My current passion and interests revolve around OCaml, ReasonML, Melange, and the wider realm of functional programming. 
 
 ### Some of my notable and favorite work includes
 
