@@ -8,7 +8,7 @@
 - Node
 - and the broader JS ecosystem
 
-My current passion and interests revolve around OCaml, ReasonML, Melange, and the wider realm of functional programming. 
+My current passion and interests revolve around OCaml, ReasonML, Gleam, and the wider realm of functional programming. 
 
 ### Some of my notable and favorite work includes
 
