@@ -18,12 +18,34 @@ local links = {
 }
 
 local talks = {
-  { "Treating Errors as Values", "React Miami 2025" },
-  { "Effect at Vercel Domains", "Effect Days 2025", "https://www.youtube.com/playlist?list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6" },
-  { "A Case Study of Adopting Effect at Vercel", "RVA JS 2024" },
-  { "Maybe OCaml Was the Friends We Made Along the Way", "FUN OCaml 2024", "https://watch.ocaml.org/w/rwDYUk9N3X9cMRyhCav35X" },
-  { "Melange: The next frontier in type-safe web development", "RVA JS 2023", "https://www.youtube.com/watch?v=zG7JejHlQoM" },
-  { "Event Driven Redux", "Nation JS 2019", "https://www.youtube.com/watch?v=Pny5rM5NneA" },
+  {
+    title = "Treating Errors as Values",
+    conf = "React Miami 2025",
+  },
+  {
+    title = "Effect at Vercel Domains",
+    conf = "Effect Days 2025",
+    link = "https://www.youtube.com/playlist?list=PLDf3uQLaK2B9bEBZbwMv04e_zSbRNPKH6",
+  },
+  {
+    title = "A Case Study of Adopting Effect at Vercel",
+    conf = "RVA JS 2024",
+  },
+  {
+    title = "Maybe OCaml Was the Friends We Made Along the Way",
+    conf = "FUN OCaml 2024",
+    link = "https://watch.ocaml.org/w/rwDYUk9N3X9cMRyhCav35X",
+  },
+  {
+    title = "Melange: The next frontier in type-safe web development",
+    conf = "RVA JS 2023",
+    link = "https://www.youtube.com/watch?v=zG7JejHlQoM",
+  },
+  {
+    title = "Event Driven Redux",
+    conf = "Nation JS 2019",
+    link = "https://www.youtube.com/watch?v=Pny5rM5NneA",
+  },
 }
 
 local projects = {
@@ -34,7 +56,3 @@ local projects = {
   "dmmulroy/create-melange-app",
 }
 ```
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=dmmulroy&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmmulroy&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
