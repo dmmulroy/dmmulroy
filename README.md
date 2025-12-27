@@ -9,12 +9,12 @@ local dillon = {
   editor = "neovim",
 }
 
-local links = {
-  github = "https://github.com/dmmulroy",
-  x = "https://x.com/dillon_mulroy",
-  twitch = "https://twitch.tv/dmmulroy",
-  youtube = "https://youtube.com/@dmmulroy",
-  site = "https://dillonis.online",
+local projects = {
+  "dmmulroy/tsc.nvim",
+  "dmmulroy/ts-error-translator.nvim",
+  "dmmulroy/jj-starship",
+  "dmmulroy/jj-ryu",
+  "dmmulroy/create-melange-app",
 }
 
 local talks = {
@@ -48,11 +48,11 @@ local talks = {
   },
 }
 
-local projects = {
-  "dmmulroy/tsc.nvim",
-  "dmmulroy/ts-error-translator.nvim",
-  "dmmulroy/jj-starship",
-  "dmmulroy/jj-ryu",
-  "dmmulroy/create-melange-app",
+local links = {
+  github = "https://github.com/dmmulroy",
+  x = "https://x.com/dillon_mulroy",
+  twitch = "https://twitch.tv/dmmulroy",
+  youtube = "https://youtube.com/@dmmulroy",
+  site = "https://dillonis.online",
 }
 ```
